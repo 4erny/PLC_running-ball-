@@ -1,0 +1,2 @@
+# PLC_running-ball-
+To begin with, let me describe the system which we are going to use. We are going to work with the ball-roller-machine which looks like a round track, but with specified amount of sensors and pneumatic systems which allow the ball to rotate up and down around this system. In pair with this system we use a PLC controller “Allen-Bradley 830 series revision 2” and program it with Ladder diagram. Each sensor and piston has a specified address which we have to use in our program.
